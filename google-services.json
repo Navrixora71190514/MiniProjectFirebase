@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "390298826760",
+    "firebase_url": "https://miniprojectfirebase71190-8942f-default-rtdb.firebaseio.com",
+    "project_id": "miniprojectfirebase71190-8942f",
+    "storage_bucket": "miniprojectfirebase71190-8942f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390298826760:android:1865a5203a9b36282239bd",
+        "android_client_info": {
+          "package_name": "com.irvan.mpfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390298826760-e0idrprhmt6re8i6b62a8d8ruqgj77nd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf1f9qhifuQUwA4EH_Ea9mM_DZ_H4aGfI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390298826760-e0idrprhmt6re8i6b62a8d8ruqgj77nd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
